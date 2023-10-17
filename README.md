@@ -21,11 +21,15 @@ Install NodeJS. Also install all dependencies mentioned in the package.json file
 
 The app has been deployed on Heroku.
 
-Live URL : 
+Live URL : https://fierce-savannah-31899-cf39cfcbeb55.herokuapp.com/
 
 Screenshots from Live site:
 
-![Text Editor Home](/images/)
+![Jate Home](/client/src/images/J-A-T-E.png)
+![Install Option](/client/src/images/install.png)
+![Manifest](/client/src/images/manifest.png)
+![Service Worker](/client/src/images/service-worker.png)
+![IndexedDb](/client/src/images/indexedDB.png)
 
 ## License
 
