@@ -1,4 +1,4 @@
-# Note Taker
+# Manj's Text Editor
   
   [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)]
 
