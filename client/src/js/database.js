@@ -29,7 +29,7 @@ export const putDb = async (content) => {
 };
 
 // Add logic for a method that gets all the content from the database
-export const getAllContent = async () => {
+export const getDb= async () => {
   console.log('GET all content from the database');
   try {
     const db = await openDB('jate', 1);
