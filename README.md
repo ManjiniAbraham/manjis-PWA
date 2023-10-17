@@ -1,4 +1,4 @@
-# Manj's Text Editor
+# Manji's Text Editor
   
   [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)]
 
@@ -12,6 +12,7 @@ The project is to build a text editor that runs in the browser. The app will be 
 - [Usage](#usage)
 - [License](#license)
 - [Credits](#credits)
+- [Features](#features)
 
 ## Installation
 
